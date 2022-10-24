@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
         registerMaxNumberButton = findViewById(R.id.register_max_number);
 
+
         Log.d("MainActivity", "maxNumber:" + maxNumber);
     }
 }
